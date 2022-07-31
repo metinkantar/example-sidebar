@@ -5,7 +5,7 @@ export default function IndexPage() {
     <>
       <Layout title="Example Layout">
         <div className="p-4">
-          Dashboard Content
+          Users Content
         </div>
         </Layout>
     </>
